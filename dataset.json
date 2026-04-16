@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Warren, Michigan with a population of over 139k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Warren, Michigan, US",
+  "export_job_id": "252bc6b1-e26a-43c0-817e-f0a51ac8265f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 746550,
+  "location_name": "Warren",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-warren-michigan-us-sample-746550",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/746550/beamstation_746550_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.58,
+  "sample_records": 32,
+  "sample_sha256": "95f00b2b15bd81996f0edb6370115119c60443548c6edd83c01b898011a8e916",
+  "sample_size_bytes": 127598,
+  "total_records": 334,
+  "updated_at": "2026-04-07T10:12:34.494694+00:00"
+}
