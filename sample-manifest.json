@@ -1,12 +1,12 @@
 {
-  "export_job_id": "527ee56f-1ff7-4811-9cda-c73ebd8630c8",
+  "export_job_id": "9884ce13-9d4b-4260-8e59-fd8a1326e37b",
   "id_short": 746550,
-  "published_at": "2026-04-21T19:47:01Z",
+  "published_at": "2026-04-28T19:25:39Z",
   "repo_name": "all-restaurants-in-warren-michigan-us-sample-746550",
   "sample_asset_name": "beamstation_746550_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/746550/beamstation_746550_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "0ab490e1c1dc9a8b6bd09e064df0bb0b846621624297c6837a060e3cddaa0b27",
-  "sample_size_bytes": 80674,
-  "total_records": 199
+  "sample_records": 32,
+  "sample_sha256": "be1d44acba5639cf2921c2567d12b79dec4923f2b92699f0686d0d93be108901",
+  "sample_size_bytes": 126927,
+  "total_records": 325
 }
