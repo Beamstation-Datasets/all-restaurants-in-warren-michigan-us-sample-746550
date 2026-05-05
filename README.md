@@ -1,6 +1,6 @@
 # All Restaurants in Warren, Michigan, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `746550` |
 | Location | Warren |
 | Category | Restaurants |
-| Full dataset size | 325 records |
-| Free sample size | 32 records (9.85%) |
-| Last export | 2026-04-28T10:17:32.448568+00:00 |
+| Full dataset size | 332 records |
+| Free sample size | 33 records (9.94%) |
+| Last export | 2026-05-05T11:08:48.948554+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-warren-michigan-us-sample-746550/releases/download/sample-latest/beamstation_746550_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
